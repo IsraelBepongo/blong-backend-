@@ -1,0 +1,26 @@
+.footere{
+    padding-top: 200px;
+    padding-bottom: 70px;
+    background: var(--footer);
+    color: white;
+
+
+    .footere-cat{
+        display: flex;
+        
+        justify-content: space-between;
+
+    }
+
+    
+       .items-cat{
+            display: block;
+            padding: 5px 0;
+            font-size: 18px;
+            font-weight: 400;
+            text-transform: capitalize;
+            font-family: var(--font);
+
+        }
+    
+}
